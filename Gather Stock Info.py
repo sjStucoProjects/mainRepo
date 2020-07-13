@@ -7,7 +7,7 @@ debug = True
 
 #connect to robinhood, access tickers
 username = 'kpreg'
-password = 'Kevin71601'
+password = 'PASSWORD'
 login = r.login(username,password)
 temp = r.build_holdings()
 tickersHeld = []
